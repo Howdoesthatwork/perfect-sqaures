@@ -1,3 +1,4 @@
+#thsi gives you squares in a range
 psmin = 4
 psmax = 100
 perfectsquares =5
